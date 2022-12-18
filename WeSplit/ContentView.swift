@@ -11,8 +11,9 @@ struct ContentView: View {
     @State private var name = ""
     var body: some View{
         Form{
-            TextField("Enter your name", text: $name)
-            Text("Hey, \(name)")
+            ForEach(0..<100){
+                number in Text("Line \(number)")
+            }
         }
     }
 }
