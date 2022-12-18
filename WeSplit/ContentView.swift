@@ -8,11 +8,11 @@
 import SwiftUI
 
 struct ContentView: View {
-    @State var tapCount = 0
-    
+    @State private var name = ""
     var body: some View{
-        Button("Tap count: \(tapCount)"){
-            tapCount += 1
+        Form{
+            TextField("Enter your name", text: $name)
+            Text("Hey, \(name)")
         }
     }
 }
