@@ -11,8 +11,8 @@ struct ContentView: View {
     @State private var name = ""
     var body: some View{
         Form{
-            ForEach(0..<100){
-                number in Text("Line \(number)")
+            ForEach(0..<50){
+                Text("Line \($0)")
             }
         }
     }
