@@ -1,5 +1,5 @@
 # WeSplit
 
-100 Days of SwiftUI – Day 16
+100 Days of SwiftUI – Day 16-19
 
-<img width="565" alt="Screenshot 2022-12-19 at 7 22 58 PM" src="https://user-images.githubusercontent.com/36399086/208441090-c2b9d4d4-3acf-4ffa-9554-e57c67624917.png">
+<img width="565" alt="Screenshot 2022-12-19 at 7 58 11 PM" src="https://user-images.githubusercontent.com/36399086/208448224-5e3677dd-4d61-4eb5-a6bb-19f99a7ea5b5.png">
